@@ -1,0 +1,178 @@
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\dbIMS.mdf
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\dbIMS_log.ldf
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\InventoryManagementSystemApp.exe.config
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\InventoryManagementSystemApp.exe
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\InventoryManagementSystemApp.pdb
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.csproj.AssemblyReference.cache
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.CategoryForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.CategoryUpdateForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.CustomerButton.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.CustomerForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.CustomerUpdateForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.LoginForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.MainForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.OrderForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.OrderUpdateForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.ProductForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.ProductUpdateForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.Properties.Resources.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.SupplierForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.SupplierUpdateForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.UserForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.UserUpdateForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.WelcomeForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.csproj.GenerateResource.cache
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.exe
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.pdb
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.csproj.CopyComplete
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\dbIMS.mdf
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\dbIMS_log.ldf
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\InventoryManagementSystemApp.exe.config
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\InventoryManagementSystemApp.exe
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\InventoryManagementSystemApp.pdb
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.csproj.AssemblyReference.cache
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.CategoryForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.CategoryUpdateForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.CustomerButton.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.CustomerForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.CustomerUpdateForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.LoginForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.MainForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.OrderForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.OrderUpdateForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.ProductForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.ProductUpdateForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.Properties.Resources.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.ReportForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.SupplierForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.SupplierUpdateForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.UserForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.UserUpdateForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.WelcomeForm.resources
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.csproj.GenerateResource.cache
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.csproj.CopyComplete
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.exe
+C:\Users\medha\Documents\UoK\Academics\Year 3\COSC\Semester I\COSC 31112 - Visual Programming\Group Project\IMS2\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.pdb
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\dbIMS.mdf
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\dbIMS_log.ldf
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\InventoryManagementSystemApp.exe.config
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\InventoryManagementSystemApp.exe
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\InventoryManagementSystemApp.pdb
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\Microsoft.AnalysisServices.AppLocal.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\Microsoft.AnalysisServices.AppLocal.Core.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\EnvDTE.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\stdole.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.csproj.AssemblyReference.cache
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.CategoryForm.resources
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.CategoryUpdateForm.resources
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.CustomerButton.resources
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.CustomerForm.resources
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.CustomerUpdateForm.resources
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.LoginForm.resources
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.MainForm.resources
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.OrderForm.resources
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.OrderUpdateForm.resources
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.ProductForm.resources
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.ProductUpdateForm.resources
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.Properties.Resources.resources
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.SupplierForm.resources
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.SupplierUpdateForm.resources
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.UserForm.resources
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.UserUpdateForm.resources
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.WelcomeForm.resources
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.csproj.GenerateResource.cache
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.csproj.CoreCompileInputs.cache
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.csproj.CopyComplete
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.exe
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.pdb
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.ProductReportForm.resources
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.CustomerReportForm.resources
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.OrderReportForm.resources
+C:\Users\medha\Desktop\InventoryManagementSystemApp\InventoryManagementSystemApp\obj\Debug\InventoryManagementSystemApp.SupplierReportForm.resources
